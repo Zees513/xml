@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+
+<aptech>
+    <student>
+        <name>zeeshan</name>
+        <email>zeeshan@gmail.com</email>
+        <age>16</age>
+    </student>
+
+     <student>
+        <name>waleed</name>
+        <email>waleed@gmail.com</email>
+        <age>15</age>
+    </student>
+
+     <student>
+        <name>ayan</name>
+        <email>ayan@gmail.com</email>
+        <age>17</age>
+    </student>
+
+     <student>
+        <name>saboor</name>
+        <email>saboor@gmail.com</email>
+        <age>19</age>
+    </student>
+</aptech>
