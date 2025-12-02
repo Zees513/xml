@@ -1,29 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
 
-<aptech>
-    <student>
-        <name>zeeshan</name>
-        <email>zeeshan@gmail.com</email>
-        <age>16</age>
-    </student>
+<cards>
+    <card>
+        <images>1.avif</images>
+        <name>bughatti</name>
+        <modal>1998</modal>
+        <color>black</color>
+        <price>$20,000000000000</price>
+        <content>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut error ex fuga delectus </content>
+    </card>
 
-     <student>
-        <name>waleed</name>
-        <email>waleed@gmail.com</email>
-        <age>15</age>
-    </student>
+     <card>
+        <images></images>
+        <name>tesla byd</name>
+        <modal>1998</modal>
+        <color>black</color>
+        <price>$20,0000000000</price>
+        <content>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut error ex fuga delectus </content>
+    </card>
 
-     <student>
-        <name>ayan</name>
-        <email>ayan@gmail.com</email>
-        <age>17</age>
-    </student>
+     <card>
+         <images></images>
+        <name>g-wagon</name>
+        <modal>1998</modal>
+        <color>black</color>
+        <content>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut error ex fuga delectus </content>
+    </card>
 
-     <student>
-        <name>saboor</name>
-        <email>saboor@gmail.com</email>
-        <age>19</age>
-    </student>
-</aptech>
+     <card>
+         <images></images>
+        <name>supra mk5</name>
+        <modal>1998</modal>
+        <color>black</color>
+        <content>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut error ex fuga delectus </content>
+    </card>
+</cards>
